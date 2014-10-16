@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aia:home|Door43 (aia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aia|d43-aia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aia/archive/master.zip|d43-aia.zip]]
+
+**Recent Changes**
+{{changes>ns = aia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aia|Ethnologue data]]
+
